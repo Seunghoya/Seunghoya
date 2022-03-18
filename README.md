@@ -22,10 +22,10 @@
 </br>
 <h3 align="center">✏️ Social ✐</h3>
 <p align="center">  
-  <a href="https://study-ihl.tistory.com/" target="_blank">
+  <a href="https://devlog-pearl.vercel.app/blog" target="_blank">
     <img src="https://img.shields.io/badge/TechBlog-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
   </a>&nbsp 
-  <a href="mailto:imhyelim1091@gmail.com?Subject=Hello%20again" target="_top">
+  <a href="mailto:viva.primavera121@gmail.com?Subject=Hello%20again" target="_top">
     <img src="https://img.shields.io/badge/Gmail-ea4335?&style=flat-square&logo=Gmail&logoColor=white"/>
   </a>&nbsp 
 </p>
